@@ -2,9 +2,9 @@
 // Project       : UART VIP
 //=============================================================================
 // Filename      : uart_pkg.sv
-// Author        : Huy Nguyen
+// Author        : La Cong Loc
 // Company       : NO
-// Date          : 20-Dec-2021
+// Date          : 30-June-2021
 //=============================================================================
 // Description   : 
 //
