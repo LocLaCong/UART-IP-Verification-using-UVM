@@ -4,7 +4,7 @@
 // Filename      : uart_pkg.sv
 // Author        : La Cong Loc
 // Company       : NO
-// Date          : 30-June-2021
+// Date          : 30-June-2025
 //=============================================================================
 // Description   : 
 //
